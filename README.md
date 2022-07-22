@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Uttampatel1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Uttam patel
+- 👀 I’m interested in developing new Projects.
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on ML compny
+- 📫 How to reach me uttampipliya4@gmail.com
 
 <!---
 Uttampatel1/Uttampatel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
