@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Uttam Pipaliya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">AI/ML Developer | Exploring the Boundaries of Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttampatel1&label=Profile%20views&color=0e75b6&style=flat" alt="uttampatel1" /> </p>
+- 🔭 I’m currently working on **ChatBot Project**
+
+- 🌱 I’m currently learning **LLMs ,Generative AI Models**
+
+- 👨‍💻 All of my projects are available at [https://uttampipaliya.me/](https://uttampipaliya.me/)
+
+- 📫 How to reach me **utampipaliya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +23,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uttampipaliya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uttampipaliya" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttampatel1&show_icons=true&locale=en&layout=compact" alt="uttampatel1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttampatel1&show_icons=true&locale=en&layout=compact" alt="uttampatel1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttampatel1&show_icons=true&locale=en" alt="uttampatel1" /></p>
