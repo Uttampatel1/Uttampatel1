@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uttam Pipaliya</h1>
 <h3 align="center">AI/ML Developer | Exploring the Boundaries of Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on ** Medical imaging for varius Brain MRI projects**
+- 🔭 I’m currently working on **Medical imaging for varius Brain MRI projects**
 
 - 🌱 I’m currently learning **LLMs ,Generative AI Models and Medical imaging**
 
-- 👨‍💻 All of my projects are available at [https://uttampipaliya.me/](https://uttampipaliya.me/)
+- 👨‍💻 All of my projects are available at [https://uttampatel1.github.io](https://uttampatel1.github.io)
 
 - 📫 How to reach me **utampipaliya@gmail.com**
 
