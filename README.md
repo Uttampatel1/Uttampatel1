@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uttam Pipaliya</h1>
-<h3 align="center">AI/ML Developer | Exploring the Boundaries of Artificial Intelligence</h3>
+<h3 align="center">Data Scientist | Exploring the Boundaries of Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on **Medical imaging for varius Brain MRI projects**
 
